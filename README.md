@@ -52,4 +52,7 @@ AppServiceAppLogs
 ## Key Files
 
 - app.py – Flask application  
-- requirements.txt – Python dependencies  
+- requirements.txt – Python dependencies
+
+## youtube video
+https://youtu.be/oxgqLpy2i7c
