@@ -11,21 +11,17 @@ A demo Flask web application that logs every login attempt and streams those log
 
 ## Getting Started
 
-### 1. Clone the repository
-git clone https://github.com/tarang-0508/flask-threat-detection.git
-cd flask-threat-detection
-
-### 2. Create a virtual environment
+### 1. Create a virtual environment
 python -m venv venv
 # Linux / macOS
 source venv/bin/activate
 # Windows
 venv\Scripts\activate
 
-### 3. Install dependencies
+### 2. Install dependencies
 pip install -r requirements.txt
 
-### 4. Run locally
+### 3. Run locally
 python app.py
 
 Then open http://localhost:5000/login in your browser.
